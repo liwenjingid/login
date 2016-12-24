@@ -1,0 +1,16 @@
+{
+  "name": "login",
+  "version": "1.0.0",
+  "description": "1.先访问 /signup 路径，得到一个空白注册表单。\r 然后用户咋爱这个表单中进行输入，",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "routes": "^2.1.0"
+  }
+}
